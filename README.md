@@ -21,4 +21,4 @@
 我在题目讲解中会使用Java和Python，这两种语言覆盖了市面上90%的工作岗位，非常经典，当然你会发现底下还有小伙伴贡献的其他题解，包括C++、Go、JavaScript等等，也欢迎大家参与进来，完善题解的各个语言版本，共同进步！
 
 ## 大厂算法题解
-[谷歌面试题：猜数字游戏]()
+[谷歌面试题：猜数字游戏](https://github.com/ninechapter-algorithm/LeetCode-master/blob/main/problem/%E8%B0%B7%E6%AD%8C%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E7%8C%9C%E6%95%B0%E5%AD%97%E6%B8%B8%E6%88%8F.md)
