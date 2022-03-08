@@ -22,7 +22,7 @@
 
 ……
 
-![image.png](https://upload-images.jianshu.io/upload_images/24356384-ee5d54b27eb8f244.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![origin_img_v2_121a3ed9-400e-4274-b7d8-5c670d808eag.png](https://upload-images.jianshu.io/upload_images/24356384-37ad5d628b42586f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 扫码添加小助手-章鱼丸，回复**关键词【Git】**，即可免费领取PDF版本！
 
