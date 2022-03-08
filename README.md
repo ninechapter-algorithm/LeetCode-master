@@ -1,15 +1,26 @@
 # LeetCode-master
 ## ACM金牌选手精讲算法，带你刷爆LeetCode/[LintCode](https://www.lintcode.com/?utm_source=sc-github-sy)
 
-**介绍**：本项目由北大学霸、ACM金牌选手令狐冲精心编撰（北大CS专业，ACM金牌选手、）。一套完整的刷题路线和详细的题目解析，可以帮助大家少走弯路，攻克面试中的算法题。
+⭐**项目介绍**：本项目由本人耗费1年时间精心编撰，目标是通过一套完整的刷题路线和详细的题目解析，帮助大家少走弯路，攻克面试中的算法题。
 
-**刷题顺序**： 很多人都不知道题目该怎么刷，从何刷起，而我已经将刷题顺序整理好了，按照这里的[精选题集](https://www.lintcode.com/collection/192/?utm_source=sc-github-sy)，按顺序一道一道刷就可以。
+⭐**作者介绍**：令狐冲，北大CS专业，acm金牌选手，前Facebook、Airbnb高级架构师，九章算法创始人。
 
-**算法题解查询**：推荐一个实用且免费的**免费题解神器**：[九章刷题小助手](https://www.jiuzhang.com/problem/?utm_source=sc-github-sy)。在LeetCode/[LintCode](https://www.lintcode.com/?utm_source=sc-github-sy)刷题，一键直达3000+题解。
+🎈**刷题顺序**： 很多人都不知道题目该怎么刷，从何刷起，而我已经将刷题顺序整理好了，按照这里的[精选题集](https://www.lintcode.com/collection/192/?utm_source=sc-github-sy)，按顺序一道一道刷就可以。
 
-**万能算法模板**：
+🎈**算法题解查询**：推荐一个实用且免费的**免费题解神器**：[九章刷题小助手](https://www.jiuzhang.com/problem/?utm_source=sc-github-sy)。在LeetCode/[LintCode](https://www.lintcode.com/?utm_source=sc-github-sy)刷题，一键直达3000+题解。
 
-欢迎关注我的公众号**九章算法** : 专业的北美IT求职经验分享、技术交流、大厂最新真题整理，帮助更多的程序员找到好工作。
+🎈**万能算法模板**：此外，我还整理了一套万能的算法模板，内含各类**BATJ等大厂常考算法题的使用条件、复杂度和万用模板**，在面试中遇到了就可以直接套，get算法面试“作弊”解法：
+📌⼆分法 Binary Search
+📌双指针 Two Pointers
+📌排序算法 Sorting
+📌宽度优先搜索 BFS
+
+![image.png](https://upload-images.jianshu.io/upload_images/24356384-ee5d54b27eb8f244.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+扫码添加小助手-章鱼丸，回复**关键词【Git】**，即可免费领取PDF版本！
+![20220222-111506.jpg](https://upload-images.jianshu.io/upload_images/24356384-1552bfd6534ee1d1.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+同时，欢迎关注我的公众号**九章算法** : 专业的北美IT求职经验分享、技术交流、大厂最新真题整理，帮助更多的程序员找到好工作。
 
 ![20220221-154912.jpg](https://upload-images.jianshu.io/upload_images/24356384-80aea596073cced2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
