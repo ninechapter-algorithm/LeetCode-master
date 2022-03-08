@@ -1,20 +1,21 @@
 # LeetCode-master
 ## ACM金牌选手精讲算法，带你刷爆LeetCode/[LintCode](https://www.lintcode.com/?utm_source=sc-github-sy)
 
-**介绍**：本项目由北大学霸、ACM金牌选手令狐冲精心编撰。一套完整的刷题路线和详细的题目解析，可以帮助大家少走弯路，攻克面试中的算法题。
+**介绍**：本项目由北大学霸、ACM金牌选手令狐冲精心编撰（北大CS专业，ACM金牌选手、）。一套完整的刷题路线和详细的题目解析，可以帮助大家少走弯路，攻克面试中的算法题。
 
-**刷题顺序**： 很多人都不知道题目该怎么刷，从何刷起，而我已经将刷题顺序整理好了，按照这里的[阶梯训练](https://www.lintcode.com/collection/192/?utm_source=sc-github-sy)，按顺序一道一道刷就可以。
+**刷题顺序**： 很多人都不知道题目该怎么刷，从何刷起，而我已经将刷题顺序整理好了，按照这里的[精选题集](https://www.lintcode.com/collection/192/?utm_source=sc-github-sy)，按顺序一道一道刷就可以。
 
 **算法题解查询**：推荐一个实用且免费的**免费题解神器**：[九章刷题小助手](https://www.jiuzhang.com/problem/?utm_source=sc-github-sy)。在LeetCode/[LintCode](https://www.lintcode.com/?utm_source=sc-github-sy)刷题，一键直达3000+题解。
 
+**万能算法模板**：
 
 欢迎关注我的公众号**九章算法** : 专业的北美IT求职经验分享、技术交流、大厂最新真题整理，帮助更多的程序员找到好工作。
 
 ![20220221-154912.jpg](https://upload-images.jianshu.io/upload_images/24356384-80aea596073cced2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-[官网地址](https://www.jiuzhang.com/?utm_source=sc-github-sy)
+**官网地址**：[https://www.jiuzhang.com/](https://www.jiuzhang.com/?utm_source=sc-github-sy)
 
-## 如何使用该刷题攻略☁
+## 如何使用该刷题攻略
 
 目前准备更新大厂的高频算法知识点，包括**二分法、双指针、二叉树、动态规划、红黑树**
 
