@@ -1,5 +1,5 @@
 # LeetCode-master
-## ACM金牌选手精讲算法，带你刷爆[LintCode](https://www.lintcode.com/?utm_source=sc-github-sy)
+## ACM金牌选手精讲算法，带你刷爆LeetCode/[LintCode](https://www.lintcode.com/?utm_source=sc-github-sy)
 
 **介绍**：本项目由北大学霸、ACM金牌选手令狐冲精心编撰。一套完整的刷题路线和详细的题目解析，可以帮助大家少走弯路，攻克面试中的算法题。
 
