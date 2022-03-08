@@ -3,7 +3,7 @@
 
 ⭐**项目介绍**：本项目由本人耗费1年时间精心编撰，目标是通过一套完整的刷题路线和详细的题目解析，帮助大家少走弯路，攻克面试中的算法题。
 
-⭐**作者介绍**：令狐冲，北大CS专业，acm金牌选手，前Facebook、Airbnb高级架构师，九章算法创始人。
+⭐**本人介绍**：令狐冲，北大CS专业，acm金牌选手，前Facebook、Airbnb高级架构师，九章算法创始人。
 
 
 🎈**刷题顺序**： 很多人都不知道题目该怎么刷，从何刷起，而我已经将刷题顺序整理好了，按照这里的[精选题集](https://www.lintcode.com/collection/192/?utm_source=sc-github-sy)，按顺序一道一道刷就可以。
@@ -11,6 +11,7 @@
 🎈**算法题解查询**：推荐一个实用且免费的**免费题解神器**：[九章刷题小助手](https://www.jiuzhang.com/problem/?utm_source=sc-github-sy)。在LeetCode/[LintCode](https://www.lintcode.com/?utm_source=sc-github-sy)刷题，一键直达3000+题解。
 
 🎈**万能算法模板**：此外，我还整理了一套万能的算法模板，内含各类**BATJ等大厂常考算法题的使用条件、复杂度和万用模板**，在面试中遇到了就可以直接套，get算法面试“作弊”解法：
+
 📌⼆分法 Binary Search
 
 📌双指针 Two Pointers
