@@ -1,9 +1,9 @@
 # LeetCode-master
-## ACM金牌选手精讲算法，带你刷爆LeetCode/[LintCode](https://www.lintcode.com/?utm_source=sc-github-sy)
+## ACM金牌选手精讲算法，带你刷爆[LeetCode/LintCode](https://www.lintcode.com/?utm_source=sc-github-sy)
 
 ⭐**项目介绍**：本项目由本人耗费1年时间精心编撰，目标是通过一套完整的刷题路线和详细的题目解析，帮助大家少走弯路，攻克面试中的算法题。
 
-⭐**本人介绍**：令狐冲，北大CS专业，acm金牌选手，前Facebook、Airbnb高级架构师，九章算法创始人。
+⭐**本人介绍**：令狐冲，北大CS专业硕士，ACM金牌选手，前Facebook、Airbnb高级架构师，九章算法创始人。
 
 
 ⭐**刷题顺序**： 很多人都不知道题目该怎么刷，从何刷起，而我已经将刷题顺序整理好了，按照这里的[精选题集](https://www.lintcode.com/collection/192/?utm_source=sc-github-sy)，按顺序一道一道刷就可以。
